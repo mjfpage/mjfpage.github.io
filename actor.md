@@ -13,6 +13,8 @@ permalink: /actor/
         </div>
     </section>
 
+<hr>
+
    <section id="two">
    		<div class="container">
    			<h3>2015</h3>

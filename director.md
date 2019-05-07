@@ -13,3 +13,5 @@ permalink: /director/
         </div>
     </section>
 
+<hr>
+

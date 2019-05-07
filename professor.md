@@ -12,3 +12,5 @@ permalink: /professor/
             <img class="left" src="/images/professor.jpg" style="max-width: 100%">
         </div>
     </section>
+
+<hr>
