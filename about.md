@@ -17,5 +17,7 @@ permalink: /about/
 			</ul>
 			<h3>Academic Interests</h3>
 			<p>Eastern European theatre, the theatre of Tadeusz Kantor, the relationship between theatre, ritual and spirituality; the work of contemporary Hungarian and Romanian theatre directors</p>
+            <h3>Professional Associations</h3>
+            <p>Actor's Equity Association, 1989-present</p>
         </div>
     </section>
